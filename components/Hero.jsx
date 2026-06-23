@@ -47,7 +47,7 @@ export default function Hero() {
              width={400}
              height={550}
              alt="Profile"
-             className="rounded-3xl object-cover"
+             className="rounded-3xl"
             />
           </div>
 

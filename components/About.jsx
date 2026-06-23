@@ -4,10 +4,12 @@ export default function About() {
       id="about"
       className="bg-[#F5EFE3] text-black py-32 px-10"
     >
-      <h2 className="text-8xl font-black mb-10">
-        Hello,
+      <h2 className="text-[110px] leading-none font-black">
+         HELLO,
+         <br />
+         I'M
         <br />
-        I'm Akanksha.
+        AKANKSHA.
       </h2>
 
       <p className="text-2xl max-w-3xl">
